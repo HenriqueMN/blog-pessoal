@@ -1,12 +1,11 @@
-import Home from "./pages/home/Home"
-//JSX = JavaScript + HTML / Função que retorna HTML
-//TSX = TypeScript (JavaScript com tipagem fixa) + HTML / Função que retorna HTML
+import './App.css';
+import Home from './pages/home/Home';
 
 function App() {
-
   return (
-    <Home />
-  )
+    <>
+    <Home/>
+    </>
+);
 }
-
-export default App
+export default App;
