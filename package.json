@@ -1,5 +1,5 @@
 {
-  "name": "blog-pessoal",
+  "name": "blogpessoal",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,12 +11,12 @@
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.0.15",
-    "axios": "^1.3.4",
+    "axios": "^1.6.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-loader-spinner": "^6.1.6",
-    "react-router-dom": "^6.21.2",
-    "reactjs-popup": "^2.0.5"
+    "react-router-dom": "^6.21.3",
+    "reactjs-popup": "^2.0.6"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
@@ -24,7 +24,7 @@
     "@typescript-eslint/eslint-plugin": "^6.14.0",
     "@typescript-eslint/parser": "^6.14.0",
     "@vitejs/plugin-react": "^4.2.1",
-    "autoprefixer": "^10.4.16",
+    "autoprefixer": "^10.4.17",
     "eslint": "^8.55.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
