@@ -13,6 +13,8 @@ import DeletarTema from './components/temas/deletarTema/DeletarTema';
 import ListaPostagens from './components/postagens/listaPostagens/ListaPostagens';
 import DeletarPostagem from './components/postagens/deletarPostagem/DeletarPostagem';
 import FormularioPostagem from './components/postagens/formularioPostagem/FormularioPostagem';
+import 'react-toastify/dist/ReactToastify.css';
+import { ToastContainer } from 'react-toastify';
 
 
 function App() {
